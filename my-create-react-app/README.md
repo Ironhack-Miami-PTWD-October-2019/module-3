@@ -1,8 +1,19 @@
 ## React is cool! :musical_note: PTWD-MIA-102019 :heart:
 
+## Instructions
+
+To clone this app follow these steps:
+
+```shell
+$ svn export https://github.com/Ironhack-Miami-PTWD-October-2019/module-3/branches/master/my-create-react-app
+$ cd my-create-react-app
+$ npm i
+$ npm start
+```
+
 ## This is final app made on Monday.
 
-<small>I know, I know, way over styled! :palm_tree: :cocktail: </small>
+<small>I know, I know, way over-styled! :palm_tree: :cocktail: </small>
 
 ![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_536a9020307a1308088727f40be0310a.png)
 
