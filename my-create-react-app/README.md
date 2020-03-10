@@ -1,3 +1,13 @@
+## React is cool! :musical_note: PTWD-MIA-102019 :heart:
+
+## This is final app made on Monday.
+
+<small>I know, I know, way over styled! :palm_tree: :cocktail: </small>
+
+![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_536a9020307a1308088727f40be0310a.png)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
