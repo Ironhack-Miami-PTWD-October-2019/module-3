@@ -1,6 +1,15 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# React Components & Bulma
+# React Components & Bulma - solution
+
+To clone this app follow these steps:
+
+```shell
+$ svn export https://github.com/Ironhack-Miami-PTWD-October-2019/module-3/branches/master/lab-bulma-components
+$ cd lab-bulma-components
+$ npm i
+$ npm start
+```
 
 ## Introduction
 
