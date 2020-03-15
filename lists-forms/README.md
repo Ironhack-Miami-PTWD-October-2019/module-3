@@ -2,12 +2,12 @@
 
 ## Learning goals
 
-✅ ensure understanding of `props` and `props.children`
-✅ ensure understanding of functional and class components
-✅ ensure understanding of how to properly update the state (`setState()`)
-✅ learn how to use ternary operator - conditional rendering
-✅ learn how to work with lists (use mandatory key prop)
-✅ learn how to work with React forms
+✅ ensure understanding of `props` and `props.children` <br>
+✅ ensure understanding of functional and class components <br>
+✅ ensure understanding of how to properly update the state (`setState()`) <br>
+✅ learn how to use ternary operator - conditional rendering <br>
+✅ learn how to work with lists (use mandatory key prop) <br>
+✅ learn how to work with React forms <br>
 ✅ learn lifting the state up
 
 Boom! 🚀🚀🚀
