@@ -6,8 +6,9 @@
 ```shell
 $ svn export https://github.com/Ironhack-Miami-PTWD-October-2019/module-3/branches/master/API-awesome-ptwd-library-project
 $ cd API-awesome-ptwd-library-project
-$ touch .env
+# if you don't have .env: touch .env
 # add to .env: PORT = 3001
+# if you have .env, change port from 3000 to 3001
 $ npm i
 $ npm run dev
 ```
