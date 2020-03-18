@@ -14,3 +14,4 @@ $ npm run dev
 ```
 
 - To test your app, go to Postman
+  Now your routes will start with: `http://localhost:3001/`
