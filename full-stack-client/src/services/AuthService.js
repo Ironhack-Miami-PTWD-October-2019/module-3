@@ -11,7 +11,7 @@ const AUTH_SERVICE = {
   // userData is a placeholder (represents the user's inputs in the signup and login form)
   signup(userData) {
     // const { username, email, password } = req.body; <===> userData
-    console.log('user data in the service: ', userData);
+    // console.log('user data in the service: ', userData);
     return service.post('/api/signup', userData);
   },
 
