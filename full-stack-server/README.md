@@ -4,11 +4,9 @@
 - Follow these steps to clone project to your local machine:
 
 ```shell
-$ svn export https://github.com/Ironhack-Miami-PTWD-October-2019/module-3/branches/master/API-awesome-ptwd-library-project
-$ cd API-awesome-ptwd-library-project
-# if you don't have .env: touch .env
-# add to .env: PORT = 3001
-# if you have .env, change port from 3000 to 3001
+$ svn export https://github.com/Ironhack-Miami-PTWD-October-2019/module-3/tree/branches/full-stack-server
+
+$ cd full-stack-server
 $ npm i
 $ npm run dev
 ```

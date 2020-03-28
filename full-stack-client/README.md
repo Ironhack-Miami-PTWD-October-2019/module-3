@@ -1,3 +1,16 @@
+# Create client side with context
+
+## Initial setup
+
+To clone this app follow these steps:
+
+```shell
+$ svn export https://github.com/Ironhack-Miami-PTWD-October-2019/module-3/branches/master/full-stack-client
+$ cd full-stack-client
+$ npm i
+$ npm start
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
