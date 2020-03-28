@@ -7,14 +7,27 @@ const favicon = require('serve-favicon');
 const mongoose = require('mongoose');
 const logger = require('morgan');
 const path = require('path');
+const cors = require('cors');
 
 const app_name = require('./package.json').name;
-const debug = require('debug')(`${app_name}:${path.basename(__filename).split('.')[0]}`);
+const debug = require('debug')(
+  `${app_name}:${path.basename(__filename).split('.')[0]}`
+);
 
 const app = express();
 // require database configuration
 
 require('./configs/db.config');
+
+// Cross-Origin Resource Sharing
+
+app.use(
+  cors({
+    origin: [process.env.FRONTEND_POINT],
+    credentials: true // this needs set up on the frontend side as well
+    //                   in axios "withCredentials: true"
+  })
+);
 
 // Middleware Setup
 app.use(logger('dev'));
