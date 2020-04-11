@@ -26,7 +26,6 @@ class SingleEpisode extends React.Component {
         </div>
       </div>
     );
-    return <></>;
   }
 }
 

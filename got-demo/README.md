@@ -1,3 +1,18 @@
+# React Game of Thrones
+
+- **_How to use 3rd party APis_**
+- Follow these steps to clone project to your local machine:
+
+```shell
+$ svn export https://github.com/Ironhack-Miami-PTWD-October-2019/module-3/branches/master/got-demo
+
+$ cd got-demo
+$ npm i
+$ npm start
+```
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
